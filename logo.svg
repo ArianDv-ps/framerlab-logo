@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 512 512">
+  <title>framerlab mark</title>
   <path d="M292.39 188.66 L192.31 189.41 L193.06 316.92 L323.56 317.42 L323.56 221.76"
         fill="none" stroke="#050304" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
   <path d="M357.41 152.12 L152.59 152.12 L152.59 354.83 L356.41 354.83 L357.41 152.12"
